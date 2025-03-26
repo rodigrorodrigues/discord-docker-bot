@@ -40,7 +40,7 @@ DOCKER_CONTAINER_NAME=containerName
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/discord-docker-bot.git
+git clone https://github.com/rodigrorodrigues/discord-docker-bot.git
 ```
 
 2. Install dependencies:
